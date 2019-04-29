@@ -27,12 +27,10 @@ An application that allows users to use that one minute wisely.
 * Install via pip:
             ``` 
             pip install -r requirements.txt
-
              ```
 
 * Run by:
            ```
-
             python3.6 manage.py server 
            
            ```            
