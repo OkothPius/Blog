@@ -32,7 +32,6 @@ An application that allows users to use that one minute wisely.
 * Run by:
            ```
             python3.6 manage.py server 
-           
            ```            
 
 
