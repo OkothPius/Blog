@@ -4,12 +4,10 @@ import os
 class Config:
     """Main configurations class"""
 
-    SQLALCHEMY_DATABASE_URI = os.environ.get("SQLALCHEMY_DATABASE_URI")
-    # SECRET_KEY = os.environ.get("SECRET_KEY")
-    SECRET_KEY ='oruko@jkl'
-    # SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://orukopius:blog@localhost/blog'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://orukopius:blog@localhost/blog'
+    SECRET_KEY = 'oruko@jkl'
     UPLOADED_PHOTOS_DEST = 'app/static/photos'
-    MAIL_SERVER = 'smtp.googlemail.com'
+    MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
     MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
@@ -25,7 +23,6 @@ class ProdConfig(Config):
 class DevConfig(Config):
     """Configuration class for development stage of the app"""
     DEBUG = True
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://orukopius:blog@localhost/blog'
 
 
 config_options = {
