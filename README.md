@@ -27,14 +27,15 @@ An application that allows users to use that one minute wisely.
 * Install via pip:
             ``` 
             pip install -r requirements.txt
+
              ```
 
 * Run by:
-           ```bash
+           ```
 
-            pyhton3.6 manage.py server 
+            python3.6 manage.py server 
            
-           bash```            
+           ```            
 
 
 ## Technologies Used
