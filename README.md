@@ -14,6 +14,11 @@ An application that allows users to use that one minute wisely.
 | ------------- |:-------------:| -----:|
 | If user wants to add pitch or comment in any pitch | User must register first if he/she havent signup,if the user has an account they proceed to login | Once the user register he/she then login with the correct credentials |
 
+## Prequisites
+* `Git`
+* `python3.6`
+
+
 
 ## Setup/Installation Requirements
 
