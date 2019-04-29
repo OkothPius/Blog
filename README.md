@@ -20,10 +20,14 @@ An application that allows users to use that one minute wisely.
 * Clone this repository
 * Install the prerequisites either globally or in a virtual environment.
 * Install via pip:
-            ``` pip install -r requirements.txt ```
+            ``` 
+            pip install -r requirements.txt
+             ```
 
 * Run by:
-           ``` pyhton3.6 manage.py server ```            
+           ```
+            pyhton3.6 manage.py server 
+           ```            
 
 
 ## Technologies Used
@@ -35,10 +39,11 @@ An application that allows users to use that one minute wisely.
 
 ## Contact Information
 
-* Email: orukopius@students.ku.ac.ke
+* **[Email](orukopius@students.ku.ac.ke)**
+  **[linkedln](https://www.linkedin.com/in/oruko-pius-213b6715a/)**
 
 ### License
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2019 __Okoth Pius Ogutu__
+MIT &copy;2019 **[orukopius](https://github.com/OkothPius)**
