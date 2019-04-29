@@ -30,9 +30,11 @@ An application that allows users to use that one minute wisely.
              ```
 
 * Run by:
-           ```
+           ```bash
+
             pyhton3.6 manage.py server 
-           ```            
+           
+           bash```            
 
 
 ## Technologies Used
@@ -45,7 +47,7 @@ An application that allows users to use that one minute wisely.
 ## Contact Information
 
 * **[Email](orukopius@students.ku.ac.ke)**
-  **[linkedln](https://www.linkedin.com/in/oruko-pius-213b6715a/)**
+* **[linkedln](https://www.linkedin.com/in/oruko-pius-213b6715a/)**
 
 ### License
 
